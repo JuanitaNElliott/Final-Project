@@ -1,0 +1,66 @@
+---
+title: "Experiences"
+description: |
+  This is a list of my school and work experience. 
+author:
+  - name: Juanita Elliott
+    url: expiences.html
+    affiliation: George Washington University.
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Experience		
+January 2017 - May 2017		Wheaton High School, -Student Aid
+•	Running various errands
+•	Conducting Inventory
+•	Organization of various materials 
+•	Sorting and Retrieving books 
+These duties assisted in the day to day operations of Wheaton High School’s English department. I did the accounting and retrieval of the books for the classroom’s literary library. I ran errands to the individual classrooms and the administrative offices.  I was also responsible for organizing the office inventory for the English Department. 
+
+
+October 2016 - April 2017		Homework Hotline Live, - Intern
+●	Answering Phones
+●	Research 
+●	Production assistant 
+●	Set crew 
+Answering the phones were the first line of communication for the program in working with the students.  One of my responsibilities was to record the caller’s questions regarding their homework and give it to the Director.  I researched the daily puzzle. I operated the sound board, worked the teleprompter, even assisted in the production of multiple Live shows. I also assisted in setting up the sets weekly.
+My work with the Homework Hotline resulted in helping successfully run a weekly television program which helped my community.
+
+
+
+
+
+
+
+
+
+J. Elliott Page 2
+2015-2016 			Montgomery Parks & Planning
+ 				Nature Ambassador - Volunteer 
+●	Event Set up 
+●	Working event booths
+As a volunteer my duties varied from event to event.  Helping to set up tables and chairs at the Fall Festival.  Assisting the guest with things such as ticket sales at the Cabin John Haunted Train Ride, to information regarding the exhibits at the Brookside Gardens Annual Butterfly Show.  
+These duties helped the Montgomery County Parks and Planning continue to provide entertainment, learning opportunities and fun for families and the community.
+
+
+
+November 2014 - April 2015	Montgomery County Recreation Center- Tutor 
+●	Worked with Kids 
+●	Assisted with snack preparation and distribution
+●	English tutoring 
+At Montgomery County Recreation Center, I worked in a children’s aftercare facility.  I monitored the kid’s activities, helped them with their homework questions.  I provided tutoring in English and elementary Math.  I also played games with the children.
+These duties assisted Montgomery County Recreation Center with providing safe, fun and a good learning environment for students in Montgomery County. 
+
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
