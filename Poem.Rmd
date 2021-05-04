@@ -1,0 +1,38 @@
+---
+title: "I will travel"
+description: |
+ A poem about my desire to travel.
+author:
+  - name: Juanita Elliott
+    url: Poem.html
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I will travel, 
+Eating, Seeing, Laughing. 
+I'll gol, to Europe, to Asia. 
+See the Pyramids in Egypt, 
+Ride The London Eye in England. 
+
+Walking the Streets of foreign cities
+Or swimming in the glowing caves.
+Climbing mountains to ancient cities, 
+To eating Bombolone in Italy.
+
+I’ll see the world 
+And then some. 
+
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
