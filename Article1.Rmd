@@ -1,0 +1,29 @@
+---
+title: "Article1"
+description: |
+ This is a news article I wrote for a journalism class.
+author:
+  - name: Juanita Elliott 
+    url: https://example.com/norajones
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+People can still check out books though, Montgomery county has been offering contactless holds since about July. People can go to the montgomery county libraries website and place a hold on the books they want. When the book(s) are available they then get an email telling them to schedule a pick up. The pick-up times are all between 12:00 pm and 6:00 am and can be scheduled every 15 or every 30 minutes depending on library. To try it out I checked out books from three different Montgomery libraries, Twinbrook, Aspen Hill and Rockville Memorial. Despite all being about the same distance they’re all in different environments. Aspen Hill is in the middle of a residential neighborhood, Rockville Memorial is in Rockville town Center an area filled with shops, restaurants and apartments reminiscent of a tiny city. Twinbrook is in the middle, literally situated between a strip mall and a residential neighborhood. 
+For pick-up the books are all placed right next to each other on tables just inside of the doors with recites with the name of the patron on them. There are no signs that point the way or explain the process. Through this is only really a problem in libraries with multiple entrances like Rockville Memorial. Two out of the three times I went to pick up books, I ended up there at the same time as other people picking up books. Both times the people try to go into the library apparently not finding what they are looking for on the tables. It is very clinical 
+	You go in, grab your book and leave. After three trips to three different libraries to pick up books, there wasn’t really any variation between them. They all did the same thing. It’s not bad and a good way to stay safe since books are quarantined for forty-eight hours before being released to someone else. 
+	But at the same time it’s honestly pretty dull. There's no interaction with librarians, no browsing the shelves for a weekend read. The more enjoyable parts of visiting libraries has been largely done away with or distanced due to COVID. Twice when either pick up or returning books people could be seen working inside. A woman moving through the shelves trailing a book cart behind her and a man working on a computer behind one of the circulation desks. There might have been more but they were the only ones visible from the outside. 
+	If a person wants to browse for books there’s always the ebook lending library. Which is accessed entirely online and has no interaction with anybody whatsoever. It doesn’t do anything for the lack of human interaction but at least you don’t have to leave your house and drive to the library for an errand that lasts less than a minute. But it really isn’t the same as being  able to stroll through them yourself and scan the selves for yourself. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

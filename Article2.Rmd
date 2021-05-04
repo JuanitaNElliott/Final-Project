@@ -1,0 +1,30 @@
+---
+title: "Article 2"
+description: |
+  An article about social media artist trends.
+author:
+  - name: Juanita Elliott
+    url: article2.html
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Inktober, Mermay, Six Fanarts, art challenges are a key staple of Social Media. Giving artists a chance to challenge themselves and show off their skills to the world not to mention compare styles and techniques. Some of these are annual events like Inktober and Mermay while others are started by individuals with an idea and inspiration. Particularly during social distancing these challenges rapidly spread across the internet as more and more people took part. One of the challenges in particular that has swept the internet is the Sailor Moon Redraw Challenge.
+Sailor Moon is a 1992 Japanese anime and manga series about a 14-year-old underachieving girl who meets a magic talking cat who gives her magical powers and tasks her to find the moon princess and battle evil. The series has become internationally popular as a staple of the fantasy subgenre the Magical girl genre and is well recognizable even for people who have never watched the show.
+The Sailor Moon Redraw challenge which was started on Twitter in 2019, experienced a spike in popularity in May of 2020, appearing everywhere from Twitter, to Devient Art to Instagram. The challenge involves an artist redrawing a scene from the original Sailor Moon anime, specifically a scene in Season 3 episode 125: The Shining Shooting Star: Saturn and the Messiah, of the titular character sailor moon kneeling on the floor looking up betrayed. 
+The challenge along with others like it has spread rapidly across social media. With millions of people drawing the scene in their own art style. Some people draw it realistically, some stylize and some draw it comedically combining it with everything from Pokémon to Naruto. 
+	With social distancing restrictions only recently being lifted people were longing for connections and things to do in their newly found free time. These artist challenges provide both, something to help pass the time and connect people together safely. While everyone views the challenges differently they all seem to see it as a way to connect with others. One artist named Micky, a recent graduate of the Ringling College of Art and Design who was interviewed over the phone, does it for fun, “Just for fun. I have never seen Sailor Moon, but it looked fun.” Seeing it as good practice to refine her craft. While another artist Maru does the challenges for publicity to promote her skills on social media. 
+This has also revealed a potential educational use for social media. When asked about her experience with its Micky also added that she learned from seeing others draw the same image. “It gives perspective of how people do it in their style and how I do it in my style.” A necessary part of art lessons is to see and learn from each other's works. With social distancing that became all but impossible. Social media allows people all around the world to see and learn from each other's art. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
