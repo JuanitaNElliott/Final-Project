@@ -1,0 +1,98 @@
+---
+title: "News Report"
+description: |
+  A broadcast news script.
+author:
+  - name: Juanita Elliott  
+    url: News_Report.html
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Anchor 
+
+
+
+Shot of people bowl from 0:39-0:45 for (6 second).
+
+
+
+
+Shot from 0:51- 0:58 of a zoom in on the Live United shirt then to the table. (8 seconds) 
+
+
+
+
+
+
+Shot from 1:06-1:12 of people milling around as a guy hold up the United lives shirt (6 seconds) 
+
+
+Shot from 1:19-1:25 of people milling around (6 seconds)
+
+
+Marie Martin talking (6 seconds)
+
+
+
+Shot from 2:08-2:20 first of the table with tickets, then of the line of people. (12 seconds)
+
+
+
+
+
+
+Shot from 0:07-0:10 of people bowling (3 seconds) 
+
+
+
+Shot of the guy in the dark red shirt bowling 0:12-0:17 (5 seconds) 
+
+
+People group together 1:11- 1:19 
+(8 seconds) 
+
+
+Shot of people's feet as they move forward to bowl. (5 seconds) 
+
+
+
+
+Shot of people bowling (0:34- 0:39) (5 seconds)
+
+
+
+Reporter (8 seconds)	IT’S TIME TO HIT THE LANES TO RAISE SOME FUNDS WITH THE BOWLATHON. JENNA LINKS HAS THE STORY. 
+
+THE THIRD ANNUAL BOWLATHON IS HAPPENING THIS WEEKEND. DIFFERENT COMPANIES PULL TOGETHER A TEAM OF FIVE BOWLERS TO COMPETE. (6 seconds)
+
+THE BOWLATHON IS PUT ON BY UNITED WAY A NON-PROFIT ORGANIZATION THAT WORKS WITH OFFICES AROUND THE COUNTRY. ALL OF THE MONEY WILL GO TO SUPPORT PROGRAMS THROUGH UNITED WAY. (8 SECONDS)
+
+IT IS ONE OF UNITED WAY'S BIGGEST FUNDRAISING EVENTS OF THE YEAR ALONG WITH THEIR WILLIAMS GOLF TOURNAMENT. MARIE MARTIAN EXECUTIVE DIRECTOR FOR THE UNITED WAY OF CENTRAL VIRGINIA WAS THERE FOR THE EVENT. (12 seconds) 
+
+“It’s away for them to get their employees together, and just have a wonderful afternoon. And so, a fun, fun day.” (6 seconds)
+
+THE BOWLATHON ENTRY FEE IS THIRTY-FIVE DOLLARS PER PERSON TO BOWL AND FIVE DOLLARS PER PERSON TO ATTEND. WHILE ALL OF THE BOWLING ALLEY’S THIRTY-NINE LANES ARE FILLED FOR TODAY, THERE ARE OPENINGS TOMORROW AFTERNOON. (12 seconds)
+THE EVENT IS OPEN TO EVERYONE NOT JUST THOSE WHO ARE REGISTERED WITH A COMPANY. (3 SECONDS) 
+
+If you like to bowl and you just want to have some fun come out and meet a lot of nice people. It’s a great way to do it. (5 seconds)
+
+GROUPS THAT RAISE ONE HUNDRED DOLLARS OR MORE WILL BE ELIGIBLE TO RECEIVE SOME PRIZES THAT UNITED WAY IS GIVING AWAY, INCLUDING A SUPERBOWLATHON PARTY AND A LEATHER PURSE. (11 seconds)
+
+SO FAR, THE EVENT HAS RAISED BETWEEN TWENTY AND TWENTY-FIVE THOUSAND DOLLARS AND THERE ARE SIX-HUNDRED BOWLERS PARTICIPATING IN THE EVENT. (7 SECONDS)
+
+THE GROUP HOPES TO BE ABLE TO RAISE FORTY-FIVE THOUSAND DOLLARS BY THE END OF THE FUNDRAISER. THIS HAS BEEN JENNA LINKS WITH THE FIVE O’CLOCK NEWS. (8 seconds)
+
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
