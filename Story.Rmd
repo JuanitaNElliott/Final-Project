@@ -1,0 +1,28 @@
+---
+title: "Short Story"
+description: |
+ This is an excerpt from a short story I wrote for a fiction writing class.
+author:
+  - name: Juanita Elliott 
+    url: story.html
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Prologue: If Your Reading this Then Aliens Exist 
+I’ve read hundreds of books where the world ends, and though about it as much as anyone else. But I have to say the planet being ripped apart by a massive black hole was not one of the ways I thought would happen. Nuclear War, I could see, (far to often do idiots get positions of power). And frankly I don’t have enough faith in humanity to believe that if we did develop a zombie virus that it wouldn’t some how get loose and kill us all. Global Warming, seemed inevitable, but years away. I could even see alien invasion as a possibility, because god knows there better be something else out there with the way we’re going. Hell the fact that this is being read means it was a possibility. But being ripped apart by a massive gravitational force never occurred to me. I mean yeah they talk about the sun inevitably exploding someday but I always thought humanity would be extinct or in space by that point. Aside from the previously mentioned aliens I thought the universe wasn’t much of a risk to us. Boy was I wrong.
+This is not a story about how the world ends. If you want that go read The Worlds Ending and Surprisingly it’s not Humanities Fault. It’s a anthology book full of short stories about all the ways the world could end that wouldn’t be because of humans. Actually one of the stories  predicts our exact situation, so if you want to laugh at us for predicting our own demise and in a work of fiction, go read that. On the other hand if you want to read about all the crazy stuff people do when they learn the world is ending, read this. Because everyone in this book is insane, that includes me by the way.
+
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+

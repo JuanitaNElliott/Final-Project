@@ -1,0 +1,32 @@
+---
+title: "Review"
+description: |
+  A review of Netflix's We can be heroes.
+author:
+  - name: Juanita Elliott
+    url: Review.html
+    affiliation: George Washington University
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+	If you want to watch a nostalgic continuation of a childhood favorite, I don’t recommend this. If you want to watch a good movie, you're in the wrong vein entirely. But if you want to watch a movie with lots of special effects, a ton of sound effects and a weak plot, We Can Be Heroes is the film for you. 
+	We Can Be Heroes is a 2020 sequel to the 2005 movie The Adventures of Sharkboy and Lavagirl directed by Robert Rodriguez who is also known for his work on the Spy Kids films. The movie follows the children of a group of superheroes known as the Heroics as they fight to save their parents and the planet from an alien invasion. With the titular heroes from the first movie appearing as members of the Heroics and the parents of one of the kids. And that's about it, neither Sharkboy or Lavagirl have much of a role in the movie, which is probably going to be a problem for anyone watching the movie for nostalgia's sake. 
+	On it’s own however I have to say… Meh. The movie isn’t terrible and it’s not great either. Based on my admittedly limited knowledge the camera work, art direction, acting it all looked good. Vivien Blair particularly who played Guppy, Sharkboy & Lavagirls daughter was fun to watch as she played the sassy character. 
+	The main problem is the plot. Which unfortunately brings down the rest of the movie. The first issue is the cast size, the movie chooses to follow on all eleven children of the superheroes but focus on only about five. Which unfortunately means that none one of them get a full character arc and that several of them get no development at all. Literally as two of the kids FastForward and Facemaker aren’t of any actual use until the last fourth of the movie, and Slow-mo is used purely as comic relief, until the climax. Even the characters who do get a bulk of the focus have at best incomplete character arcs which seem to skip over the moments of growth and or necessary exposition in favor of a swift resolution. The main character Missy for instance several plot threads surround her most of which are either entirely forgotten or easily resolved. An example being the beginning of the movie where we hear her narration but is never heard again. Or the fact that after her mothers death her father apparently promised to stop going on superhero missions, a promise he breaks about fifteen minutes later with no repercussions to their relationship  and which is only alluded to vaguely at the movies end. All of which makes me question why the promise was included in the movie at all. 
+	Another thing is the fact that the plot is in a word too normal. While superheroes and aliens lands the film squarely in science fiction the plot elements aren’t anything you can’t find in any other movie where they've been done better. Part of the fun of Rodriguez's family films is the over the top zaniness of them, whether it’s a villain who mutates captured spies into characters for a kids show or characters floating down an actual river of sweets. The films all have these insane elements that make the film fun to watch, even if the plot isn’t great. Without these the movie lacks it’s fun element.
+	In conclusion We Can Be Heroes is easily the worst of Rodriguez’s films aimed at families, due to its lack of over the top zany elements and weak plot. While the movie is decent and inoffensive, it’s nothing special and you shouldn’t go out of your way to watch it. 
+
+ 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
